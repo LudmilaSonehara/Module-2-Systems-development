@@ -12,7 +12,7 @@
   *( JAVA )*
   
 - Desenvolver o Organizar Interface Gráfica para Aplicações Desktop 
-  *( Em andamento )*
+  *( UI/UX )*
   
 - Programar Aplicativos Computacionais com Integração da Banco de Dados para Desktop
   *( Em andamento )*
