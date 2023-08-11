@@ -14,7 +14,7 @@
 - Desenvolver Projeto de Interface para melhor Experiência do Usuário
   *( UI/UX )*
 
-  - Desenvolver o Organizar Interface Gráfica para Aplicações Desktop 
+- Desenvolver o Organizar Interface Gráfica para Aplicações Desktop 
   *( JAVA )*
   
 - Programar Aplicativos Computacionais com Integração da Banco de Dados para Desktop
