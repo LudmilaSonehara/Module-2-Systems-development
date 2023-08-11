@@ -11,8 +11,11 @@
 - Auxiliar na Elaboração de Projeto de Sistema Orientado a Objeto
   *( JAVA )*
   
-- Desenvolver o Organizar Interface Gráfica para Aplicações Desktop 
+- Desenvolver Projeto de Interface para melhor Experiência do Usuário
   *( UI/UX )*
+
+  - Desenvolver o Organizar Interface Gráfica para Aplicações Desktop 
+  *( JAVA )*
   
 - Programar Aplicativos Computacionais com Integração da Banco de Dados para Desktop
-  *( Em andamento )*
+  *( JAVA )*
